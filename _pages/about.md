@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+赵聪，工学博士，副教授，硕导，重庆邮电大学前沿交叉研究院副院长，重庆市学术技术带头人 后备人选(电子科学与技术方向),深圳市孔雀计划C类人才，光电工程学院微电子系教师，主 讲课程：《MEMS技术与应用》《半导体材料与半导体工艺》。2015年毕业于四川大学，获工  学博士学位，新西兰奥克兰大学联合培养博士，Laser&photonics reviews等国际著名期刊审 稿人。2015年07月至2023年02月期间，先后从教于重庆文理学院、中国科学院深圳先进技术  研究院、南方科技大学，从事发光器件、微纳制造、柔性电子器件、传感器研究。2023年04月 全职加入重庆邮电大学，建立智能传感器与系统集成研究组，从事微纳制造、柔性电子器件、传 感器研究，在功能材料及器件、微纳加工领域有较多创新性研究成果，在Mater.Today. Phys.、Adv.Mater. Tech.、ACS  Appl.Mater.Inter、Adv.Mater.Interfaces. 、IEEE Sens. J.、Chem. Eng. J.、Ceram. Inter 等国际知名期刊上累计发表SCI/EI论文60余篇，申请/ 授权发明专利20余项。累计主持科研项目7项，其中，国家自然科学基金1项，省部级一般项目3 项，省部级重点项目1项，其它项目2项，作为主要研究人员参与包括科技部重点研发计划、省部 级重点、省部级科技攻关、省部级一般、华为横向科技攻关等课题8项。
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
